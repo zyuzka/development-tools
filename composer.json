@@ -1,0 +1,13 @@
+{
+  "name": "spryker-feature/development-tools",
+  "description": "Development tools [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker-shop/web-profiler-widget": "^1.0.0",
+    "spryker/code-generator": "^0.3.7",
+    "spryker/development": "^3.13.2"
+  }
+}
