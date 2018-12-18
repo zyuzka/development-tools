@@ -5,7 +5,5 @@ Tools provide a convenient way of building a project in development environment 
 ## Installation
 
 ```
-composer require --dev spryker-feature/development-tools
+composer require spryker-feature/development-tools
 ```
-
-This is a development only "require-dev" feature.
