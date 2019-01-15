@@ -8,6 +8,6 @@
     "php": ">=7.1",
     "spryker-shop/web-profiler-widget": "^1.0.0",
     "spryker/code-generator": "^0.3.7",
-    "spryker/development": "^3.16.1"
+    "spryker/development": "^3.16.2"
   }
 }
