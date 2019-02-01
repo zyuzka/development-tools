@@ -9,5 +9,10 @@
     "spryker-shop/web-profiler-widget": "^1.0.0",
     "spryker/code-generator": "^0.3.7",
     "spryker/development": "^3.16.2"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "201902.x-dev"
+    }
   }
 }
