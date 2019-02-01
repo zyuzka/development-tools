@@ -4,6 +4,7 @@
   "type": "metapackage",
   "license": "proprietary",
   "minimum-stability": "dev",
+  "prefer-stable": true,
   "require": {
     "php": ">=7.1",
     "spryker-shop/web-profiler-widget": "^1.0.0",
