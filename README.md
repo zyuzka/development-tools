@@ -1,6 +1,6 @@
 # Spryker Feature: Development tools
 
-Tools provide a convenient way of building a project in development environment with Spryker OS
+Development tools provide a convenient way of building a project in development environment with Spryker OS
 
 ## Installation
 
