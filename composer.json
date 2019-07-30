@@ -9,8 +9,14 @@
     "php": ">=7.1",
     "spryker-shop/web-profiler-widget": "^1.0.0",
     "spryker/code-generator": "^0.3.7",
-    "spryker/development": "^3.18.0"
+    "spryker/development": "dev-bugfix/filter-autoload"
   },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/zyuzka/development"
+    }
+  ],
   "extra": {
     "branch-alias": {
       "dev-master": "201907.x-dev"
